@@ -1,0 +1,36 @@
+2025-02-18 14:13:49,510 - Active Window Changed: pythonw.exe
+2025-02-18 14:13:57,531 - Mouse Pressed at (-295, -620) with Button.left
+2025-02-18 14:13:57,588 - Mouse Released at (-295, -620) with Button.left
+2025-02-18 14:13:59,411 - Mouse Pressed at (-1650, -499) with Button.left
+2025-02-18 14:13:59,447 - Mouse Released at (-1650, -499) with Button.left
+2025-02-18 14:14:01,647 - Key Pressed: t
+2025-02-18 14:14:01,903 - Key Pressed: c
+2025-02-18 14:14:02,024 - Key Pressed: m
+2025-02-18 14:14:02,323 - Special Key Pressed: Key.space
+2025-02-18 14:14:02,493 - Key Pressed: s
+2025-02-18 14:14:02,653 - Key Pressed: e
+2025-02-18 14:14:02,838 - Key Pressed: c
+2025-02-18 14:14:02,993 - Key Pressed: u
+2025-02-18 14:14:03,163 - Key Pressed: r
+2025-02-18 14:14:03,470 - Key Pressed: i
+2025-02-18 14:14:03,649 - Key Pressed: t
+2025-02-18 14:14:03,821 - Key Pressed: y
+2025-02-18 14:14:04,326 - Special Key Pressed: Key.enter
+2025-02-18 14:14:09,183 - Mouse Pressed at (-2242, 745) with Button.left
+2025-02-18 14:14:09,233 - Mouse Released at (-2242, 745) with Button.left
+2025-02-18 14:14:11,965 - Mouse Pressed at (3549, 38) with Button.left
+2025-02-18 14:14:12,021 - Mouse Released at (3549, 38) with Button.left
+2025-02-18 14:14:19,639 - Mouse Pressed at (1965, 710) with Button.left
+2025-02-18 14:14:19,703 - Mouse Released at (1965, 710) with Button.left
+2025-02-18 14:14:20,942 - Mouse Pressed at (644, 480) with Button.left
+2025-02-18 14:14:20,985 - Mouse Released at (644, 480) with Button.left
+2025-02-18 14:14:22,582 - Mouse Pressed at (294, 615) with Button.left
+2025-02-18 14:14:22,652 - Mouse Released at (294, 615) with Button.left
+2025-02-18 14:14:23,553 - Mouse Pressed at (244, 279) with Button.left
+2025-02-18 14:14:23,631 - Mouse Released at (244, 279) with Button.left
+2025-02-18 14:14:26,631 - Mouse Pressed at (1298, 938) with Button.left
+2025-02-18 14:14:26,673 - Mouse Released at (1298, 938) with Button.left
+2025-02-18 14:14:29,630 - Mouse Pressed at (1862, 232) with Button.left
+2025-02-18 14:14:29,721 - Mouse Released at (1862, 232) with Button.left
+2025-02-18 14:14:31,813 - Mouse Pressed at (1866, 1243) with Button.left
+2025-02-18 14:14:31,868 - Mouse Released at (1866, 1243) with Button.left
